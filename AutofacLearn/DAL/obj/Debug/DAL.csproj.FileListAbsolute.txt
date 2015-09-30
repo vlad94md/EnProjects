@@ -1,0 +1,9 @@
+D:\GIT\EnProjects\AutofacLearn\DAL\bin\Debug\DAL.dll.config
+D:\GIT\EnProjects\AutofacLearn\DAL\bin\Debug\DAL.dll
+D:\GIT\EnProjects\AutofacLearn\DAL\bin\Debug\DAL.pdb
+D:\GIT\EnProjects\AutofacLearn\DAL\bin\Debug\EntityFramework.dll
+D:\GIT\EnProjects\AutofacLearn\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\GIT\EnProjects\AutofacLearn\DAL\bin\Debug\EntityFramework.xml
+D:\GIT\EnProjects\AutofacLearn\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\GIT\EnProjects\AutofacLearn\DAL\obj\Debug\DAL.dll
+D:\GIT\EnProjects\AutofacLearn\DAL\obj\Debug\DAL.pdb

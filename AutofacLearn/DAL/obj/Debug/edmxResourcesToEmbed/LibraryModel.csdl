@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="LibraryModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="LibraryEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="Authors" EntityType="LibraryModel.Author" />
+    <EntitySet Name="Books" EntityType="LibraryModel.Book" />
+    <EntitySet Name="Categorys" EntityType="LibraryModel.Category" />
+    <AssociationSet Name="FK__Books__AuthorId__145C0A3F" Association="LibraryModel.FK__Books__AuthorId__145C0A3F">
+      <End Role="Authors" EntitySet="Authors" />
+      <End Role="Books" EntitySet="Books" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Books__CategoryI__15502E78" Association="LibraryModel.FK__Books__CategoryI__15502E78">
+      <End Role="Categorys" EntitySet="Categorys" />
+      <End Role="Books" EntitySet="Books" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Author">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="First_name" Type="String" MaxLength="25" Unicode="false" FixedLength="false" />
+    <Property Name="Last_name" Type="String" MaxLength="25" Unicode="false" FixedLength="false" />
+    <Property Name="Country" Type="String" MaxLength="25" Unicode="false" FixedLength="false" />
+    <NavigationProperty Name="Books" Relationship="LibraryModel.FK__Books__AuthorId__145C0A3F" FromRole="Authors" ToRole="Books" />
+  </EntityType>
+  <EntityType Name="Book">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" MaxLength="55" Unicode="false" FixedLength="false" />
+    <Property Name="Descriptn" Type="String" MaxLength="300" Unicode="false" FixedLength="false" />
+    <Property Name="Price" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="CategoryId" Type="Int32" />
+    <Property Name="AuthorId" Type="Int32" />
+    <NavigationProperty Name="Author" Relationship="LibraryModel.FK__Books__AuthorId__145C0A3F" FromRole="Books" ToRole="Authors" />
+    <NavigationProperty Name="Category" Relationship="LibraryModel.FK__Books__CategoryI__15502E78" FromRole="Books" ToRole="Categorys" />
+  </EntityType>
+  <EntityType Name="Category">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="25" Unicode="false" FixedLength="false" />
+    <NavigationProperty Name="Books" Relationship="LibraryModel.FK__Books__CategoryI__15502E78" FromRole="Categorys" ToRole="Books" />
+  </EntityType>
+  <Association Name="FK__Books__AuthorId__145C0A3F">
+    <End Role="Authors" Type="LibraryModel.Author" Multiplicity="0..1" />
+    <End Role="Books" Type="LibraryModel.Book" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Authors">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Books">
+        <PropertyRef Name="AuthorId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Books__CategoryI__15502E78">
+    <End Role="Categorys" Type="LibraryModel.Category" Multiplicity="0..1" />
+    <End Role="Books" Type="LibraryModel.Book" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Categorys">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Books">
+        <PropertyRef Name="CategoryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

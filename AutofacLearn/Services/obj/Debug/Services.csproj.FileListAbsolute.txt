@@ -1,0 +1,4 @@
+D:\GIT\EnProjects\AutofacLearn\Services\bin\Debug\Services.dll
+D:\GIT\EnProjects\AutofacLearn\Services\bin\Debug\Services.pdb
+D:\GIT\EnProjects\AutofacLearn\Services\obj\Debug\Services.dll
+D:\GIT\EnProjects\AutofacLearn\Services\obj\Debug\Services.pdb
