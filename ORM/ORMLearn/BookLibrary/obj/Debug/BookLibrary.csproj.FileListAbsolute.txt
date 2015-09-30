@@ -46,3 +46,6 @@ C:\Users\vguleaev\Desktop\ORMLearn2\ORMLearn\BookLibrary\bin\Debug\DAL.pdb
 C:\Users\vguleaev\Desktop\ORMLearn2\ORMLearn\BookLibrary\bin\Debug\EntityFramework.xml
 C:\Users\vguleaev\Desktop\ORMLearn2\ORMLearn\BookLibrary\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\vguleaev\Desktop\ORMLearn2\ORMLearn\BookLibrary\obj\Debug\BookLibrary.csprojResolveAssemblyReference.cache
+D:\GIT\EnProjects\ORM\ORMLearn\BookLibrary\bin\Debug\BookLibrary.exe.config
+D:\GIT\EnProjects\ORM\ORMLearn\BookLibrary\obj\Debug\BookLibrary.exe
+D:\GIT\EnProjects\ORM\ORMLearn\BookLibrary\obj\Debug\BookLibrary.pdb
