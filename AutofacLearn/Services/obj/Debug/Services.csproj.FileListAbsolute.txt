@@ -2,3 +2,16 @@ D:\GIT\EnProjects\AutofacLearn\Services\bin\Debug\Services.dll
 D:\GIT\EnProjects\AutofacLearn\Services\bin\Debug\Services.pdb
 D:\GIT\EnProjects\AutofacLearn\Services\obj\Debug\Services.dll
 D:\GIT\EnProjects\AutofacLearn\Services\obj\Debug\Services.pdb
+E:\IT\Endava\GIT\EnProjects\AutofacLearn\Services\bin\Debug\Services.dll
+E:\IT\Endava\GIT\EnProjects\AutofacLearn\Services\bin\Debug\Services.pdb
+E:\IT\Endava\GIT\EnProjects\AutofacLearn\Services\obj\Debug\Services.dll
+E:\IT\Endava\GIT\EnProjects\AutofacLearn\Services\obj\Debug\Services.pdb
+E:\IT\Endava\GIT\EnProjects\AutofacLearn\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+E:\IT\Endava\GIT\EnProjects\AutofacLearn\Services\bin\Debug\Converter.dll
+E:\IT\Endava\GIT\EnProjects\AutofacLearn\Services\bin\Debug\DAL.dll
+E:\IT\Endava\GIT\EnProjects\AutofacLearn\Services\bin\Debug\Models.dll
+E:\IT\Endava\GIT\EnProjects\AutofacLearn\Services\bin\Debug\EntityFramework.dll
+E:\IT\Endava\GIT\EnProjects\AutofacLearn\Services\bin\Debug\Converter.pdb
+E:\IT\Endava\GIT\EnProjects\AutofacLearn\Services\bin\Debug\DAL.pdb
+E:\IT\Endava\GIT\EnProjects\AutofacLearn\Services\bin\Debug\Models.pdb
+E:\IT\Endava\GIT\EnProjects\AutofacLearn\Services\bin\Debug\EntityFramework.xml

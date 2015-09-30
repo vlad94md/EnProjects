@@ -11,7 +11,7 @@
     <ProjectTypeGuids>{E3E379DF-F4C6-4180-9B81-6769533ABE47};{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>AutofacLearn</RootNamespace>
+    <RootNamespace>WebUI</RootNamespace>
     <AssemblyName>AutofacLearn</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <MvcBuildViews>false</MvcBuildViews>
@@ -142,13 +142,17 @@
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DAL\DAL.csproj">
-      <Project>{de6d4a73-036f-4c8a-abc9-5bd1901148a0}</Project>
-      <Name>DAL</Name>
-    </ProjectReference>
+    <Content Include="Views\Book\List.cshtml" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Views\Book\List.cshtml" />
+    <ProjectReference Include="..\Models\Models.csproj">
+      <Project>{d113c902-a86b-48f0-83d6-154284e6bf97}</Project>
+      <Name>Models</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Services\Services.csproj">
+      <Project>{4525f217-6884-4635-9b32-2b5ad0d80506}</Project>
+      <Name>Services</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

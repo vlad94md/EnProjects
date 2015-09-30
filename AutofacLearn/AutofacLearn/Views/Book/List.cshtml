@@ -1,4 +1,4 @@
-﻿@model IQueryable<DAL.Book>
+﻿@model ICollection<Models.BookModel>
 @{
     Layout = null;
 }
@@ -14,8 +14,11 @@
     <div>
         @foreach (var item in Model)
         {
-            <p> @item.Title</p> <br />
-            <p> @item.Descriptn</p> <br />
+            <p>Title: @item.Title</p>
+            <p>Description: @item.Descriptn</p>
+            <p>Price: @item.Price</p> 
+            <p>Author: @item.Author.First_name @item.Author.Last_name</p> 
+            <br />
         }
     </div>
 </body>

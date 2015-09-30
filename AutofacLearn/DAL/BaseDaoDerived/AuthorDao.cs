@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace DAL
 {
-    public interface IBookRepository
-    {
-        IQueryable<Book> Books { get; }
-    }
+    //class AuthorDao : BaseDao<Author>
+    //{
+    //}
 }

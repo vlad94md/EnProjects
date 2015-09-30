@@ -3,22 +3,30 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
-using DAL;
+using Services;
+using Models;
 
-namespace AutofacLearn.Controllers
+namespace WebUI.Controllers
 {
     public class BookController : Controller
     {
-        private IBookRepository repository;
+        //private IRepository<Book> repository;
 
-        public BookController(IBookRepository bookRepository)
+        //public BookController(IRepository<Book> bookRepository)
+        //{
+        //    this.repository = bookRepository;
+        //}
+
+        private IBookService bookService;
+
+        public BookController(IBookService _bookService)
         {
-            this.repository = bookRepository;
+            this.bookService = _bookService;
         }
 
         public ViewResult List()
         {
-            return View(repository.Books);
+            return View(bookService.GetList());
         }
     }
 }

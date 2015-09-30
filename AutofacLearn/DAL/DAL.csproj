@@ -52,14 +52,20 @@
     <Compile Include="Author.cs">
       <DependentUpon>LibraryModel.tt</DependentUpon>
     </Compile>
+    <Compile Include="BaseDaoDerived\AuthorDao.cs" />
+    <Compile Include="BaseDaoDerived\BaseDao.cs" />
     <Compile Include="Book.cs">
       <DependentUpon>LibraryModel.tt</DependentUpon>
     </Compile>
-    <Compile Include="BookRepository.cs" />
+    <Compile Include="BaseDaoDerived\BookDao.cs" />
+    <Compile Include="Repositories\imp\AuthorRepository.cs" />
+    <Compile Include="Repositories\imp\BookRepository.cs" />
     <Compile Include="Category.cs">
       <DependentUpon>LibraryModel.tt</DependentUpon>
     </Compile>
-    <Compile Include="IBookRepository.cs" />
+    <Compile Include="BaseDaoDerived\CategoryDao.cs" />
+    <Compile Include="Repositories\imp\CategoryRepository.cs" />
+    <Compile Include="Repositories\IRepository.cs" />
     <Compile Include="LibraryModel.Context.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -101,6 +107,7 @@
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

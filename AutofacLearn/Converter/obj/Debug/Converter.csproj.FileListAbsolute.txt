@@ -1,0 +1,11 @@
+E:\IT\Endava\GIT\EnProjects\AutofacLearn\Converter\bin\Debug\Converter.dll
+E:\IT\Endava\GIT\EnProjects\AutofacLearn\Converter\bin\Debug\Converter.pdb
+E:\IT\Endava\GIT\EnProjects\AutofacLearn\Converter\obj\Debug\Converter.dll
+E:\IT\Endava\GIT\EnProjects\AutofacLearn\Converter\obj\Debug\Converter.pdb
+E:\IT\Endava\GIT\EnProjects\AutofacLearn\Converter\obj\Debug\Converter.csprojResolveAssemblyReference.cache
+E:\IT\Endava\GIT\EnProjects\AutofacLearn\Converter\bin\Debug\DAL.dll
+E:\IT\Endava\GIT\EnProjects\AutofacLearn\Converter\bin\Debug\Models.dll
+E:\IT\Endava\GIT\EnProjects\AutofacLearn\Converter\bin\Debug\EntityFramework.dll
+E:\IT\Endava\GIT\EnProjects\AutofacLearn\Converter\bin\Debug\DAL.pdb
+E:\IT\Endava\GIT\EnProjects\AutofacLearn\Converter\bin\Debug\Models.pdb
+E:\IT\Endava\GIT\EnProjects\AutofacLearn\Converter\bin\Debug\EntityFramework.xml

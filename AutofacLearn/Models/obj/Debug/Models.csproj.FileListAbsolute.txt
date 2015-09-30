@@ -1,0 +1,4 @@
+E:\IT\Endava\GIT\EnProjects\AutofacLearn\Models\bin\Debug\Models.dll
+E:\IT\Endava\GIT\EnProjects\AutofacLearn\Models\bin\Debug\Models.pdb
+E:\IT\Endava\GIT\EnProjects\AutofacLearn\Models\obj\Debug\Models.dll
+E:\IT\Endava\GIT\EnProjects\AutofacLearn\Models\obj\Debug\Models.pdb
