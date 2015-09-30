@@ -1,0 +1,48 @@
+c:\users\vlad\documents\visual studio 2012\Projects\ORMLearn\BookLibrary\bin\Debug\BookLibrary.exe.config
+c:\users\vlad\documents\visual studio 2012\Projects\ORMLearn\BookLibrary\bin\Debug\BookLibrary.exe
+c:\users\vlad\documents\visual studio 2012\Projects\ORMLearn\BookLibrary\bin\Debug\BookLibrary.pdb
+c:\users\vlad\documents\visual studio 2012\Projects\ORMLearn\BookLibrary\bin\Debug\EntityFramework.dll
+c:\users\vlad\documents\visual studio 2012\Projects\ORMLearn\BookLibrary\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\vlad\documents\visual studio 2012\Projects\ORMLearn\BookLibrary\bin\Debug\EntityFramework.xml
+c:\users\vlad\documents\visual studio 2012\Projects\ORMLearn\BookLibrary\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\vlad\documents\visual studio 2012\Projects\ORMLearn\BookLibrary\obj\Debug\BookLibrary.csprojResolveAssemblyReference.cache
+c:\users\vlad\documents\visual studio 2012\Projects\ORMLearn\BookLibrary\obj\Debug\BookLibrary.exe
+c:\users\vlad\documents\visual studio 2012\Projects\ORMLearn\BookLibrary\obj\Debug\BookLibrary.pdb
+c:\users\vlad\documents\visual studio 2012\Projects\ORMLearn\BookLibrary\bin\Debug\DAL.dll
+c:\users\vlad\documents\visual studio 2012\Projects\ORMLearn\BookLibrary\bin\Debug\DAL.pdb
+C:\Users\vguleaev\Desktop\ORM\ORMLearn\BookLibrary\bin\Debug\BookLibrary.exe.config
+C:\Users\vguleaev\Desktop\ORM\ORMLearn\BookLibrary\obj\Debug\BookLibrary.exe
+C:\Users\vguleaev\Desktop\ORM\ORMLearn\BookLibrary\obj\Debug\BookLibrary.pdb
+C:\Users\vguleaev\Desktop\ORM\ORMLearn\BookLibrary\bin\Debug\BookLibrary.exe
+C:\Users\vguleaev\Desktop\ORM\ORMLearn\BookLibrary\bin\Debug\BookLibrary.pdb
+C:\Users\vguleaev\Desktop\ORM\ORMLearn\BookLibrary\bin\Debug\DAL.dll
+C:\Users\vguleaev\Desktop\ORM\ORMLearn\BookLibrary\bin\Debug\EntityFramework.dll
+C:\Users\vguleaev\Desktop\ORM\ORMLearn\BookLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vguleaev\Desktop\ORM\ORMLearn\BookLibrary\bin\Debug\DAL.pdb
+C:\Users\vguleaev\Desktop\ORM\ORMLearn\BookLibrary\bin\Debug\EntityFramework.xml
+C:\Users\vguleaev\Desktop\ORM\ORMLearn\BookLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vguleaev\Desktop\ORM\ORMLearn\BookLibrary\obj\Debug\BookLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\Desktop\ORMLearn2\ORMLearn\BookLibrary\bin\Debug\BookLibrary.exe.config
+C:\Users\Vlad\Desktop\ORMLearn2\ORMLearn\BookLibrary\obj\Debug\BookLibrary.exe
+C:\Users\Vlad\Desktop\ORMLearn2\ORMLearn\BookLibrary\obj\Debug\BookLibrary.pdb
+C:\Users\Vlad\Desktop\ORMLearn2\ORMLearn\BookLibrary\bin\Debug\BookLibrary.exe
+C:\Users\Vlad\Desktop\ORMLearn2\ORMLearn\BookLibrary\bin\Debug\BookLibrary.pdb
+C:\Users\Vlad\Desktop\ORMLearn2\ORMLearn\BookLibrary\bin\Debug\DAL.dll
+C:\Users\Vlad\Desktop\ORMLearn2\ORMLearn\BookLibrary\bin\Debug\EntityFramework.dll
+C:\Users\Vlad\Desktop\ORMLearn2\ORMLearn\BookLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vlad\Desktop\ORMLearn2\ORMLearn\BookLibrary\bin\Debug\DAL.pdb
+C:\Users\Vlad\Desktop\ORMLearn2\ORMLearn\BookLibrary\bin\Debug\EntityFramework.xml
+C:\Users\Vlad\Desktop\ORMLearn2\ORMLearn\BookLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vlad\Desktop\ORMLearn2\ORMLearn\BookLibrary\obj\Debug\BookLibrary.csprojResolveAssemblyReference.cache
+C:\Users\vguleaev\Desktop\ORMLearn2\ORMLearn\BookLibrary\bin\Debug\BookLibrary.exe.config
+C:\Users\vguleaev\Desktop\ORMLearn2\ORMLearn\BookLibrary\obj\Debug\BookLibrary.exe
+C:\Users\vguleaev\Desktop\ORMLearn2\ORMLearn\BookLibrary\obj\Debug\BookLibrary.pdb
+C:\Users\vguleaev\Desktop\ORMLearn2\ORMLearn\BookLibrary\bin\Debug\BookLibrary.exe
+C:\Users\vguleaev\Desktop\ORMLearn2\ORMLearn\BookLibrary\bin\Debug\BookLibrary.pdb
+C:\Users\vguleaev\Desktop\ORMLearn2\ORMLearn\BookLibrary\bin\Debug\DAL.dll
+C:\Users\vguleaev\Desktop\ORMLearn2\ORMLearn\BookLibrary\bin\Debug\EntityFramework.dll
+C:\Users\vguleaev\Desktop\ORMLearn2\ORMLearn\BookLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vguleaev\Desktop\ORMLearn2\ORMLearn\BookLibrary\bin\Debug\DAL.pdb
+C:\Users\vguleaev\Desktop\ORMLearn2\ORMLearn\BookLibrary\bin\Debug\EntityFramework.xml
+C:\Users\vguleaev\Desktop\ORMLearn2\ORMLearn\BookLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vguleaev\Desktop\ORMLearn2\ORMLearn\BookLibrary\obj\Debug\BookLibrary.csprojResolveAssemblyReference.cache
