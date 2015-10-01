@@ -2,3 +2,8 @@ E:\IT\Endava\GIT\EnProjects\AutofacLearn\Models\bin\Debug\Models.dll
 E:\IT\Endava\GIT\EnProjects\AutofacLearn\Models\bin\Debug\Models.pdb
 E:\IT\Endava\GIT\EnProjects\AutofacLearn\Models\obj\Debug\Models.dll
 E:\IT\Endava\GIT\EnProjects\AutofacLearn\Models\obj\Debug\Models.pdb
+D:\GIT\EnProjects\AutofacLearn\Models\bin\Debug\Models.dll
+D:\GIT\EnProjects\AutofacLearn\Models\bin\Debug\Models.pdb
+D:\GIT\EnProjects\AutofacLearn\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+D:\GIT\EnProjects\AutofacLearn\Models\obj\Debug\Models.dll
+D:\GIT\EnProjects\AutofacLearn\Models\obj\Debug\Models.pdb

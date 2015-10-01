@@ -15,3 +15,12 @@ E:\IT\Endava\GIT\EnProjects\AutofacLearn\Services\bin\Debug\Converter.pdb
 E:\IT\Endava\GIT\EnProjects\AutofacLearn\Services\bin\Debug\DAL.pdb
 E:\IT\Endava\GIT\EnProjects\AutofacLearn\Services\bin\Debug\Models.pdb
 E:\IT\Endava\GIT\EnProjects\AutofacLearn\Services\bin\Debug\EntityFramework.xml
+D:\GIT\EnProjects\AutofacLearn\Services\bin\Debug\Converter.dll
+D:\GIT\EnProjects\AutofacLearn\Services\bin\Debug\DAL.dll
+D:\GIT\EnProjects\AutofacLearn\Services\bin\Debug\Models.dll
+D:\GIT\EnProjects\AutofacLearn\Services\bin\Debug\EntityFramework.dll
+D:\GIT\EnProjects\AutofacLearn\Services\bin\Debug\Converter.pdb
+D:\GIT\EnProjects\AutofacLearn\Services\bin\Debug\DAL.pdb
+D:\GIT\EnProjects\AutofacLearn\Services\bin\Debug\Models.pdb
+D:\GIT\EnProjects\AutofacLearn\Services\bin\Debug\EntityFramework.xml
+D:\GIT\EnProjects\AutofacLearn\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache

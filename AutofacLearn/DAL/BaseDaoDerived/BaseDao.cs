@@ -6,29 +6,31 @@ using System.Threading.Tasks;
 
 namespace DAL
 {
-    public abstract class BaseDao<T> where T:class
+    public  class BaseDao<T>
     {
-        private IRepository<T> repository;
+        //LibraryEntities lib = new LibraryEntities();
 
-        public BaseDao(IRepository<T> repos)
-        {
-            this.repository = repos;
-        }
+        //private IRepository<T> repository;
 
-        public bool Add(T t)
-        {
-            return repository.Add(t);
-        }
+        //public BaseDao(IRepository<T> repos)
+        //{
+        //    this.repository = repos;
+        //}
 
-        public bool Delete(T t)
-        {
-            return repository.Delete(t);
-        }
+        //public bool Add(T t)
+        //{
+        //    return repository.Add(t);
+        //}
 
-        public ICollection<T> GetList()
-        {
-            return repository.GetList;
-        }
+        //public bool Delete(T t)
+        //{
+        //    return repository.Delete(t);
+        //}
+
+        //public ICollection<T> GetList()
+        //{
+        //    return repository.GetList;
+        //}
 
         //public bool Update(T t);
         //public T GetById(int id);

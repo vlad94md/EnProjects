@@ -16,3 +16,4 @@ E:\IT\Endava\GIT\EnProjects\AutofacLearn\DAL\bin\Debug\EntityFramework.xml
 E:\IT\Endava\GIT\EnProjects\AutofacLearn\DAL\bin\Debug\EntityFramework.SqlServer.xml
 E:\IT\Endava\GIT\EnProjects\AutofacLearn\DAL\obj\Debug\DAL.dll
 E:\IT\Endava\GIT\EnProjects\AutofacLearn\DAL\obj\Debug\DAL.pdb
+D:\GIT\EnProjects\AutofacLearn\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache

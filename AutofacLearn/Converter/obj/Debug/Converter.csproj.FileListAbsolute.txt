@@ -9,3 +9,14 @@ E:\IT\Endava\GIT\EnProjects\AutofacLearn\Converter\bin\Debug\EntityFramework.dll
 E:\IT\Endava\GIT\EnProjects\AutofacLearn\Converter\bin\Debug\DAL.pdb
 E:\IT\Endava\GIT\EnProjects\AutofacLearn\Converter\bin\Debug\Models.pdb
 E:\IT\Endava\GIT\EnProjects\AutofacLearn\Converter\bin\Debug\EntityFramework.xml
+D:\GIT\EnProjects\AutofacLearn\Converter\bin\Debug\Converter.dll
+D:\GIT\EnProjects\AutofacLearn\Converter\bin\Debug\Converter.pdb
+D:\GIT\EnProjects\AutofacLearn\Converter\bin\Debug\DAL.dll
+D:\GIT\EnProjects\AutofacLearn\Converter\bin\Debug\Models.dll
+D:\GIT\EnProjects\AutofacLearn\Converter\bin\Debug\EntityFramework.dll
+D:\GIT\EnProjects\AutofacLearn\Converter\bin\Debug\DAL.pdb
+D:\GIT\EnProjects\AutofacLearn\Converter\bin\Debug\Models.pdb
+D:\GIT\EnProjects\AutofacLearn\Converter\bin\Debug\EntityFramework.xml
+D:\GIT\EnProjects\AutofacLearn\Converter\obj\Debug\Converter.csprojResolveAssemblyReference.cache
+D:\GIT\EnProjects\AutofacLearn\Converter\obj\Debug\Converter.dll
+D:\GIT\EnProjects\AutofacLearn\Converter\obj\Debug\Converter.pdb

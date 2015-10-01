@@ -8,6 +8,7 @@ using Autofac.Integration.Mvc;
 using System.Reflection;
 using Autofac.Builder;
 using Services;
+using DAL;
 
 namespace WebUI.App_Start
 {
@@ -20,6 +21,8 @@ namespace WebUI.App_Start
             builder.RegisterControllers(Assembly.GetExecutingAssembly()).PropertiesAutowired();
             //builder.RegisterType<BookRepository>().As<IRepository<Book>>();
             builder.RegisterType<BookService>().As<IBookService>();
+            //builder.RegisterType<BookRepository>().As(IBookService>();
+
             Container = builder.Build();
 
             DependencyResolver.SetResolver(new AutofacDependencyResolver(Container));
